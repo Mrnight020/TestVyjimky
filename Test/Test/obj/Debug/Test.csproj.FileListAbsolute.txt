@@ -1,0 +1,10 @@
+G:\Programování\---------VYJIMKY----------\Test\Test\bin\Debug\Test.exe.config
+G:\Programování\---------VYJIMKY----------\Test\Test\bin\Debug\Test.exe
+G:\Programování\---------VYJIMKY----------\Test\Test\bin\Debug\Test.pdb
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.Properties.Resources.resources
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.exe
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.pdb
+G:\Programování\---------VYJIMKY----------\Test\Test\obj\Debug\Test.AritmetickyPrumer.resources
